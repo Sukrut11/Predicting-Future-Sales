@@ -47,6 +47,7 @@ Likewise we plotted the count plot of number of purchases in different days of t
 ![image](https://user-images.githubusercontent.com/87969705/144180032-790a95fc-bc48-422f-9d28-1229aec0ec33.png)
 
 After this we are going to find out the variation of data distribution in a particular range using distplot. We understand that the distribution of the price ranges from zero till maximum two thousand five hundred. Maximum items were distributed in the price range of zero to one thousand.
+
 ![image](https://user-images.githubusercontent.com/87969705/144180892-bee6bec5-ba96-4659-b969-ad54d11c8c11.png)
 
 The following graph shows the distribution of number of items sold per day.
